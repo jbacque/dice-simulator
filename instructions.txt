@@ -1,11 +1,13 @@
 Part 1: The Dice Game (40%)
 When the 'Play' button is clicked:
-    - A random die is show (1-6) for the house
+    - A random die is shown (1-6) for the house
     - A different (but still random) die is shown for the player
     - If the player's roll is higher than the house, the player's bet is added to their funds.
         e.g. If funds is 3500 and the bet is 500. There funds will be 4000.
     - If the player loses, they subtract the bet from their funds.
     - If it is a tie, nothing happens.
+    - Be sure to create proper variables for the data you need to calculate and update on the website.
+    - Make sure you update the funds on the website as it changes.
 
 Part 2: Life of Luxury (40%)
 When the 'Buy Riches & Luxury' button is clicked:
